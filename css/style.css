@@ -1,5 +1,6 @@
 body {
-    background-image: url("/img/bg-img.jpg");
+    background-image: url("../img/bg-img.jpg");
+    background-repeat: cover;
 }
 
 h2 {
